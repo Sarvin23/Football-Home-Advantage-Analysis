@@ -1,0 +1,24 @@
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio project settings
+.Rproj.user/
+
+# Package build files
+*.Rcheck/
+*.tar.gz
+
+# Temporary files
+*.tmp
+*.bak
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
