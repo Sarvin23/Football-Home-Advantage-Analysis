@@ -52,15 +52,6 @@ While crowd influence appears statistically significant, it does not fully expla
 - *tidyverse* 
 - *ggplot2*
 
-## Report
-
-The full report includes:
-
-- Detailed methodology and previous research
-- Statistical results 
-- Interpretation of findings 
-- Limitations and future work
-
 ## Limitataions & Future Work
 
 - Aggregate-level analysis may hide match-specific variations 
