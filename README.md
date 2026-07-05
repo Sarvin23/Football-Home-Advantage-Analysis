@@ -10,8 +10,8 @@ Home advantage has long been a debated phenomenon in sports analytics. This proj
 
 To isolate the effect of crowd support, I have considered two contrasting seasons:
 
-• 2020/21 Premier League → Matches played largely without crowds (COVID-19 period) \
-• 2022/23 Premier League → Matches played with full stadium attendance
+- 2020/21 Premier League → Matches played largely without crowds (COVID-19 period) 
+- 2022/23 Premier League → Matches played with full stadium attendance
 
 The analysis compares home performance across these two environments.
 
@@ -21,54 +21,54 @@ This project combines descriptive statistics and statistical testing:
 
 ### Descriptive Analysis
 
-• Home win percentage comparison between seasons
-• Win/draw/loss distributions for home vs away teams
+- Home win percentage comparison between seasons
+- Win/draw/loss distributions for home vs away teams
 
 ### Statistical Testing
 
-• F-Test assessing variance homogeneity
-• T-test to assess crowd effect on home advantage between the two seasons
+- F-Test assessing variance homogeneity 
+- T-test to assess crowd effect on home advantage between the two seasons
 
 ## Key Findings
 
-• A measurable difference exists between home performance in the two seasons analyzed.
-• The 2022/23 season (with crowd) shows stronger home advantage compared to the 2020/21 season (no crowd).
-• However, home advantage is not solely explained by crowd presence.
-• Factors such as:
-    • Team strength
-    • Tactical decisions
-    • Referee Bias
-    • Player's psychological state
-    • Match-specific conditions
+- A measurable difference exists between home performance in the two seasons analysed  
+- The 2022/23 season (with crowd) shows stronger home advantage compared to the 2020/21 season (no crowd) 
+- However, home advantage is not solely explained by crowd presence 
+- Factors such as: 
+  - Team strength 
+  - Tactical decisions 
+  - Referee Bias 
+  - Player's psychological state 
+  - Match-specific conditions
 
 ### Final Insight
 
-Home advantage is a multifactorial phenomenon, not a single-cause effect.
-While crowd influence appears statistically significant, it does not fully explain home performance differences.
+Home advantage is a multifactorial phenomenon, not a single-cause effect \
+While crowd influence appears statistically significant, it does not fully explain home performance differences 
 
 ## Software and Packages
 
-• *R* (Version 4.4.1) \
-• *tidyverse* \
-• *ggplot2*
+- *R* (Version 4.4.1) 
+- *tidyverse* 
+- *ggplot2*
 
 ## Report
 
 The full report includes:
 
-• Detailed methodology and previous research \
-• Statistical results \
-• Interpretation of findings \
-• Limitations and future work
+- Detailed methodology and previous research
+- Statistical results 
+- Interpretation of findings 
+- Limitations and future work
 
 ## Limitataions & Future Work
 
-• Aggregate-level analysis may hide match-specific variations
-• Team strength imbalance not fully controlled
-• Future work should include:
-    • Match-by-match modelling
-    • Regression models controlling for team quality
-    • Advanced causal inference techniques
+- Aggregate-level analysis may hide match-specific variations 
+- Team strength imbalance not fully controlled 
+- Future work should include: 
+  - Match-by-match modelling 
+  - Regression models controlling for team quality 
+  - Advanced causal inference techniques
 
 ## Conclusion
 
