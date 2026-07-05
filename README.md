@@ -77,6 +77,6 @@ While the analysis shows a statistically significant difference between seasons 
 A more granular analytical approach would provide deeper insight into how and when home advantage truly manifests.
 
 ## Author 
-Sarvin Raaj Gunasekar
-B.Sc. Data Science
+Sarvin Raaj Gunasekar\
+B.Sc. Data Science\
 Technical University of Dortmund
