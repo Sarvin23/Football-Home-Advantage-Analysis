@@ -22,7 +22,7 @@ This project combines descriptive statistics and statistical testing:
 ### Descriptive Analysis
 
 - Home win percentage comparison between seasons
-- Win/draw/loss distributions for home vs away teams
+- Home advantage distributions
 
 ### Statistical Testing
 
