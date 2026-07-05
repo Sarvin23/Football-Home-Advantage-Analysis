@@ -67,6 +67,18 @@ Home advantage is not a simple outcome of crowd presence. \
 While the analysis shows a statistically significant difference between seasons with and without crowds, the effect is modulated by multiple interacting variables such as team ability, tactics, and situational context. \
 A more granular analytical approach would provide deeper insight into how and when home advantage truly manifests.
 
+## References
+
+- Neave, N., & Wolfson, S. (2003). *Testosterone, territoriality, and the "home advantage".* **Physiology & Behavior.**
+
+- Nevill, A. M., Balmer, N. J., & Williams, A. M. (2002). *The influence of crowd noise and experience upon refereeing decisions in football.* **Psychology of Sport and Exercise.**
+  
+- Pollard, R. (2002). *Evidence of a reduced home advantage when a team moves to a new stadium.* **Journal of Sports Sciences.** 
+
+- Pollard, R. (2008). *Home advantage in football: A current review of an unsolved puzzle.* **The Open Sports Sciences Journal.**
+
+- Pollard, R., & Pollard, G. *Home advantage in soccer: A review of its existence and causes.*
+
 ## Author 
 Sarvin Raaj Gunasekar\
 B.Sc. Data Science\
